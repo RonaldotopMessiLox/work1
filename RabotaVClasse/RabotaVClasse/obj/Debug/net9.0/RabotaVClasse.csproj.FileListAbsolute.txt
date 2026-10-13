@@ -1,0 +1,14 @@
+C:\Users\student\source\repos\RabotaVClasse\RabotaVClasse\obj\Debug\net9.0\RabotaVClasse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\RabotaVClasse\RabotaVClasse\obj\Debug\net9.0\RabotaVClasse.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\RabotaVClasse\RabotaVClasse\obj\Debug\net9.0\RabotaVClasse.AssemblyInfo.cs
+C:\Users\student\source\repos\RabotaVClasse\RabotaVClasse\obj\Debug\net9.0\RabotaVClasse.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\RabotaVClasse\RabotaVClasse\bin\Debug\net9.0\RabotaVClasse.exe
+C:\Users\student\source\repos\RabotaVClasse\RabotaVClasse\bin\Debug\net9.0\RabotaVClasse.deps.json
+C:\Users\student\source\repos\RabotaVClasse\RabotaVClasse\bin\Debug\net9.0\RabotaVClasse.runtimeconfig.json
+C:\Users\student\source\repos\RabotaVClasse\RabotaVClasse\bin\Debug\net9.0\RabotaVClasse.dll
+C:\Users\student\source\repos\RabotaVClasse\RabotaVClasse\bin\Debug\net9.0\RabotaVClasse.pdb
+C:\Users\student\source\repos\RabotaVClasse\RabotaVClasse\obj\Debug\net9.0\RabotaVClasse.dll
+C:\Users\student\source\repos\RabotaVClasse\RabotaVClasse\obj\Debug\net9.0\refint\RabotaVClasse.dll
+C:\Users\student\source\repos\RabotaVClasse\RabotaVClasse\obj\Debug\net9.0\RabotaVClasse.pdb
+C:\Users\student\source\repos\RabotaVClasse\RabotaVClasse\obj\Debug\net9.0\RabotaVClasse.genruntimeconfig.cache
+C:\Users\student\source\repos\RabotaVClasse\RabotaVClasse\obj\Debug\net9.0\ref\RabotaVClasse.dll
